@@ -1,5 +1,3 @@
-import './style.css'
-
 let currentTheme = 'day';
 
 const themes = {
